@@ -1,0 +1,22 @@
+{
+  "name": "main",
+  "displayName": "BunnyFinder",
+  "expo": {
+    "name": "BunnyFinder",
+    "slug": "bunnyfinder-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sudobility.bunnyfinder"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sudobility.bunnyfinder"
+    }
+  }
+}
